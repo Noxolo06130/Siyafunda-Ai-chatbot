@@ -113,6 +113,6 @@ Potential future improvements could include:
 
 ## Project Resources
 
-- 📄 [Project Documentation](./FanTechStick_5_AI_Chatbot_Project%20Documentation.pdf)
+-📄 [Project Documentation](./Siyafunda_AI_Chatbot_Project_Documentation.pdf)
 - 📘 [User Guide](./Siyafunda%20User%20Guide.pdf)
 - 🖼️ [Chatbot Screenshots](./Siyafunda_chatbot_screenshots.zip)
