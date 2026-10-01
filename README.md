@@ -110,3 +110,9 @@ Potential future improvements could include:
 - Improving the quiz experience
 - Adding more multimedia content
 - Expanding the chatbot's learning pathways
+
+## Project Resources
+
+- 📄 [Project Documentation](./FanTechStick_5_AI_Chatbot_Project%20Documentation.pdf)
+- 📘 [User Guide](./Siyafunda%20User%20Guide.pdf)
+- 🖼️ [Chatbot Screenshots](./Siyafunda_chatbot_screenshots.zip)
